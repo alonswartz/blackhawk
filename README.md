@@ -3,14 +3,14 @@
 To cut a long story short, I started feeling pain in my wrists and
 shoulders in Dec 2014. I did some research into ergonomic keyboards,
 bought a Kinesis Freestyle, got sucked into the mechanical keyboard
-scene, hand wired a test [8key](http://go.alonswartz.org/8key) keyboard from switch tester, sourced
-and hand wired an [Atreus](http://go.alonswartz.org/atreus), ordered an Infinity Ergodox but the wait
+scene, hand wired a test [8key](https://goo.gl/photos/TbPSDzrhXfg9XMT2A) keyboard from switch tester, sourced
+and hand wired an [Atreus](https://goo.gl/photos/kjKC2Xvuuc4AcfrSA), ordered an Infinity Ergodox but the wait
 and delays were killing me, so I designed and built my own, codenamed
 *blackhawk*.
 
 ![collage](images/collage.png)
 
-[High resolution photos](http://go.alonswartz.org/blackhawk)
+[High resolution photos](https://goo.gl/photos/pkQY3UJtp5hR5mas7)
 
 ## Design goals
 
