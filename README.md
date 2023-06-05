@@ -38,9 +38,16 @@ and delays were killing me, so I designed and built my own, codenamed
 - Interconnect 11 conductor cable
 - Vortex PBT cherry keycaps
 - Grafiti skin surface slim wrist rest
-- Laser cut transparent gray acrylic 3mm 5 layer sandwitch case
 - 3mm hex bolts and nuts
 - Trackpoint module and 16G labret for stem
+
+## Case
+
+- Laser cut transparent gray acrylic 3mm 5 layer sandwitch case
+- Ponoko ready-to-cut P3 design file available in `case/`
+- Note: the original design called for USB type-c interconnect, but due
+  to a defective cable with [current leakage](https://deskthority.net/workshop-f7/hand-wired-54key-full-split-custom-build-t12545.html#p372473), I opted for a fixed
+  interconnect, so the breakout board cutout is no longer required.
 
 ## Inspiration and thanks
 
